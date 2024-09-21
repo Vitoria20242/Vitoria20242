@@ -1,0 +1,42 @@
+<html lang="pt-BR">
+  <head></head>
+  <body>
+    <div class="block">Bloco 1</div>
+    <div class="block">Bloco 2</div>
+    <div class="block">Bloco 3</div>
+    <div class="block">Bloco 4</div>
+  </body>
+</html>
+<!-- código omitido -->
+
+<div class container="container">
+    <input type="checkbox" id="menu" class="container__botao">
+    <label for="menu">
+            <span class="cabeçalho__menu-hamburguer container__imagem"></span>
+    </label>
+
+<!-- código omitido -->
+
+127.0.0.1:5500/index.html
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AluraBooks</title>
+    </head>
+    <body>
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AluraBooks</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+    </body>
+</html>
